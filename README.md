@@ -26,9 +26,9 @@ Linux Network Namespace Manager with persistent systemd service.
 ## Install Script 
 
 - ✅ Download Config Setup File
-- ✅ curl -O https://raw.githubusercontent.com/stevevoto/NameSpaceSetup/main/setup_namespace.py
+- ✅ curl -O https://raw.githubusercontent.com/stevevoto/NameSpaceSetup/main/setup_namespacev2.py
      or
-- ✅ wget https://raw.githubusercontent.com/stevevoto/setupNamespace/main/setup_namespace.py
+- ✅ wget https://raw.githubusercontent.com/stevevoto/setupNamespace/main/setup_namespacev2.py
 - ✅ chmod +x setup_namespace.py
 - ✅ run  python3 setup_namespace install  (installs namespace and test scripts)
 - ✅ run  python3 setup_namespace    (default list of commands)
